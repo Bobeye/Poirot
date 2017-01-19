@@ -18,13 +18,13 @@
   ```
 
 ### Structure
-BoxAnnotation : annotation tool
-data : data
-utils : tools
-config.py : configuration for training
-data.py : prepare dataset for training
-model.py ; train the model
-predict.py : offline prediction
+1. BoxAnnotation : annotation tool
+2. data : data
+3. utils : tools
+4. config.py : configuration for training
+5. data.py : prepare dataset for training
+6. model.py ; train the model
+7. predict.py : offline prediction
 
 
 ### Reference
