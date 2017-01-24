@@ -1,5 +1,5 @@
 ## Transfer learning on object annotation & detection
-(undergoing project)
+(unfinished project)
 
 ### Recommend environment
 1. download & install Anaconda python=3.5 (https://www.continuum.io/downloads)
@@ -25,6 +25,5 @@
 5. data.py : prepare dataset for training
 6. model.py ; train the model
 7. predict.py : offline prediction
-
 
 ### Reference
